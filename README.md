@@ -1,11 +1,11 @@
 # React-FileUpload
 upgrade support React@16.X
 
-project from (React-FileUpload)[https://github.com/SoAanyip/React-FileUpload]
+project from https://github.com/SoAanyip/React-FileUpload
 
 #### Use
 
-if React@15.X to (React-FileUpload)[https://github.com/SoAanyip/React-FileUpload]
+if React@15.X to https://github.com/SoAanyip/React-FileUpload
 
 if React16.X:
 
