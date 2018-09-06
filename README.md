@@ -7,7 +7,11 @@ project from https://github.com/SoAanyip/React-FileUpload
 
 if React@15.X to https://github.com/SoAanyip/React-FileUpload
 
-if React16.X:
+if React16.X
+new file `newFileUpload.js`
+copy `FileUpload.js` code to `newFileUpload.js`
+
+custom component content:
 
     import FileUpload from 'FileUpload'
     
@@ -15,7 +19,7 @@ if React16.X:
         render(){
             /*set properties*/
             const options={
-                baseUrl:'/manage/product/upload.do',
+                baseUrl:'/xxx/xxx/xxx.php',
                 fileFieldName: 'upload_file',
                 dataType: 'json',
                 chooseAndUpload: true,
