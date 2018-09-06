@@ -8,8 +8,8 @@ project from https://github.com/SoAanyip/React-FileUpload
 if React@15.X to https://github.com/SoAanyip/React-FileUpload
 
 if React16.X
-new file `newFileUpload.js`
-copy `FileUpload.js` code to `newFileUpload.js`
+1. new file `newFileUpload.js`
+2. copy `FileUpload.js` code to `newFileUpload.js`
 
 custom component content:
 
